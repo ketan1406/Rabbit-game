@@ -24,15 +24,21 @@ To play Rabbit-Game on your local machine, follow these installation steps:
 
 2. Navigate to your project directory:
 
+   ```bash
    cd Rabbit-Game
+   ```
 
 3. Install the required dependencies using pip install:
 
-   pip install -r requirements.txt
+```bash
+ pip install -r requirements.txt
+```
 
 4. Run the game:
 
+   ```bash
    python main.py
+   ```
 
 ## Usage and Controls
 
