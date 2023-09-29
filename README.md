@@ -7,9 +7,9 @@ Rabbit-Game is a grid-based game created using Python and the `curses` library t
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage and Controls](#usage-and-controls)
+- [Usage and Game Features](#usage-and-game-features)
   - [Usage](#usage)
-  - [Controls](#controls)
+  - [Game Features](#game-features)
 
 ## Installation
 
@@ -40,7 +40,7 @@ To play Rabbit-Game on your local machine, follow these installation steps:
    python main.py
    ```
 
-## Usage and Controls
+## Usage and Game Features
 
 ### Usage
 
